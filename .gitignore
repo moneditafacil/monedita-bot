@@ -12,7 +12,6 @@ bun.lock
 .zed
 .DS_Store
 
-dist/
 
 *.gguf
 *.onnx
